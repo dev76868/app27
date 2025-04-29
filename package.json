@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "admob-rewarded-ads-ssv": "^1.0.1",
+    "express": "^5.1.0",
+    "express-admob-ssv": "^1.0.3"
+  }
+}
